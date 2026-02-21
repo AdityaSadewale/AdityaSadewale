@@ -11,8 +11,60 @@
 ![](https://github-readme-stats.vercel.app/api?username=ADITYA_SADEWALE&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ADITYA_SADEWALE&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA_SADEWALE&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 Achievements
+
+🥈 **2nd Prize – Smart India Hackathon (SIH) 2025**  
+- Team Leader  
+- Demonstrated leadership & problem-solving skills  
+
+🤖 ROBO Hackathon 2025  
+- Built robotic AI solutions  
+- Enhanced hardware + software integration skills  
+
+🥉 3rd Rank – Karma-Tech Project Exhibition  
+
+⚡ Participant – EV Techathon 6.0  
+
+🏅 4-Time Excellent Sport Achievement Award – KIT  
+
+🥇🥈 2 Gold & 2 Silver Medals – 10M Air Pistol Shooting (DBATU University)  
+
+---
+
+## 📜 Certifications
+
+- Generative AI Studio Certification  
+- Introduction to Artificial Intelligence – Great Learning  
+- HTML & CSS Development – STP Computer Education (2024)  
+- Computer Ethics in AI – Microsoft & LinkedIn  
+- AI for Entrepreneurship – Online Skilling Course  
+
+---
+
+## 🎯 Interests
+
+🎯 National Level 10M Air Pistol Shooter  
+Participated in All India & National Championships  
+
+---
+
+## 🌍 Languages
+
+- Marathi  
+- Hindi  
+- English  
+
+---
+
+## 💡 About Me
+
+I am a passionate Full-Stack & AI Developer focused on building intelligent, scalable, and user-friendly applications.  
+I enjoy solving real-world problems using AI, automation, and modern web technologies.
+
+Always learning. Always building. 🚀
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
