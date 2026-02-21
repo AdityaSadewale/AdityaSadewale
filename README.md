@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[!LinkedIn (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 (https://linkedin.com/in/Aditya Sadewale) 
 
 # 💻 Tech Stack:
@@ -18,27 +18,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ADITYA_SADEWALE&icon=6&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🏆 Achievements
-
-🥈 **2nd Prize – Smart India Hackathon (SIH) 2025**  
-- Team Leader  
-- Demonstrated leadership & problem-solving skills  
-
-🤖 ROBO Hackathon 2025  
-- Built robotic AI solutions  
-- Enhanced hardware + software integration skills  
-
-🥉 3rd Rank – Karma-Tech Project Exhibition  
-
-⚡ Participant – EV Techathon 6.0  
-
-🏅 4-Time Excellent Sport Achievement Award – KIT,Shelve  
-
-🥇🥈 2 Gold & 2 Silver Medals – 10M Air Pistol Shooting
----
 
 ## 📜 Certifications
 
