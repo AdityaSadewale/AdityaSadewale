@@ -25,11 +25,4 @@ I enjoy solving real-world problems using AI, automation, and modern web technol
 
 Always learning. Always building. 🚀
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ADITYA_SADEWALE&icon=4&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
