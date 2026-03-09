@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Sadewale<br><br>🚀 Full-Stack & AI Developer | Python | MERN Stack | Web & Automation 🎯 Passionate about building AI-powered applications and real-world automation tools.<br><br>📧 Email: adityasadewale@gmail.com . 
+# 👋 Hi, I'm Aditya Sadewale<br><br>🚀 Full-Stack & AI Developer | Python | MERN Stack | Web & Automation 🎯 Passionate about building AI-powered applications and real-world automation tools.<br><br>📧 Email: adityasadewale@gmail.com
 
 💻 Full-Stack & AI Developer with expertise in Python, MERN Stack, and web development. Skilled in building AI-powered applications, automation tools, and responsive web interfaces. Experienced in backend & frontend development, databases (MongoDB/MySQL), REST APIs, and cloud integration. Passionate about solving real-world problems through technology, AI, and automation.
 
