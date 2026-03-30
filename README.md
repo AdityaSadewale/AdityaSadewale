@@ -14,10 +14,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AdityaSadewale">GitHub</a> •
-  <a href="https://www.linkedin.com/in/aditya-sadewale-760359318">LinkedIn</a> •
-  <a href="mailto:adityasadewale@gmail.com">Email</a> •
-  <a herf="https://leetcode.com/u/Aditya_Sadewale">Leet Code</a>
+  <a href="https://www.linkedin.com/in/aditya-sadewale-760359318">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Aditya_Sadewale_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:adityasadewale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AdityaSadewale">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
      
 
@@ -65,11 +73,19 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   />
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/AdityaSadewale">GitHub</a> •
-  <a href="https://www.linkedin.com/in/aditya-sadewale-760359318">LinkedIn</a> •
-  <a href="mailto:adityasadewale@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/aditya-sadewale-760359318">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Aditya_Sadewale_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:adityasadewale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AdityaSadewale">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
