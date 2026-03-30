@@ -16,7 +16,8 @@
 <p align="center">
   <a href="https://github.com/AdityaSadewale">GitHub</a> •
   <a href="https://www.linkedin.com/in/aditya-sadewale-760359318">LinkedIn</a> •
-  <a href="mailto:adityasadewale@gmail.com">Email</a>
+  <a href="mailto:adityasadewale@gmail.com">Email</a> •
+  <a herf="https://leetcode.com/u/Aditya_Sadewale">Leet Code</a>
 </p>
      
 
