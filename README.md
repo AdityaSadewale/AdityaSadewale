@@ -47,6 +47,11 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   <img src="https://leetcard.jacoblin.cool/Aditya_Sadewale_?theme=radical&font=Recursive" alt="LeetCode Activity" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aditya_Sadewale_&theme=tokyonight" alt="LeetCode Badges" />
+</p> -->
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
