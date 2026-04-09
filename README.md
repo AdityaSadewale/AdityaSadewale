@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I am Aditya Sadewale</h1>
 
 <h2>Hi ! I'm Aditya Sadewale, a Full-Stack & AI Developer passionate about building AI-powered apps and automation tools.<i>🏆 Hackathon Winner</i>. I work with Python, MERN Stack, React, Node.js, and cloud technologies. Always learning, always building, and sharing projects on GitHub. 🚀</h2>
- 
+
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite">
     <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,postgres,tailwind,tensorflow,pytorch,opencv,git,vercel" height="50" />
@@ -27,6 +27,10 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<div align="center">
+  <h3>🌐 Live Portfolio: <a href="https://my-portfolio-ten-vert-77.vercel.app/">my-portfolio-ten-vert-77.vercel.app</a></h3>
+</div>
      
 
 <!-- <p align="center">
