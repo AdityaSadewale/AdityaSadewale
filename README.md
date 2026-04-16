@@ -68,7 +68,7 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="220" />
   <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="220" />
    <img src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" width="220" />
-  <img src="https://camo.githubusercontent.com/151afd26e8bf71c047b979a82bbd91a97745897bc1ed4c07f25810ce020f80a9/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f546f705f53514c5f35302e676966" width="200" />
+  <img src="https://camo.githubusercontent.com/151afd26e8bf71c047b979a82bbd91a97745897bc1ed4c07f25810ce020f80a9/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f546f705f53514c5f35302e676966" width="220" />
 </p>
 
 
