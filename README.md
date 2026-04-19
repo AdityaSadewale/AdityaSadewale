@@ -118,5 +118,5 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 </p>
 
 <p align="center">
-Always learning. Always building. 🚀
+Always learn & building. 🚀
 </p>
