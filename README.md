@@ -4,7 +4,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,postgres,tailwind,tensorflow,pytorch,opencv,git,vercel" height="50" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,postgres,tailwind,tensorflow,opencv,git,vercel" height="50" />
   </marquee>
 </p>
 
