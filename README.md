@@ -44,7 +44,7 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 ## 🔥 Coding Stats & Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaSadewale&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSadewale&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
