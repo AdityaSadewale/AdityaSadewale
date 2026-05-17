@@ -93,15 +93,15 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   <li>🚀 <strong>AI for Entrepreneurship</strong> – Using AI for business innovation, automation, & startup solutions</li>
 </ul>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSadewale&theme=radical&area=true&cache=0" alt="GitHub Activity Graph" />
+</p>
+
 <!-- Random Dev Quote -->
 <h2>✍️ Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSadewale&theme=radical&area=true&cache=0" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
