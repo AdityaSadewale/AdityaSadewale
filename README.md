@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I am Aditya Sadewale</h1>
 
-<h2>Hi ! I'm Aditya Sadewale, a Full-Stack & AI Developer passionate about building AI-powered apps and automation tools.<i>🏆 Hackathon Winner</i>. I work with Python, MERN Stack, React, Node.js, and cloud technologies. Always learning, always building, and sharing projects on GitHub. 🚀</h2>
+<h2>Hi ! I'm Aditya Sadewale, a Full-Stack & AI Developer passionate about building AI-powered apps and automation tools.<i>🏆 Hackathon Winner</i>. I work with Python, MERN Stack, React, Node.js, and Ai technologies. Always learning, always building, and sharing projects on GitHub. 🚀</h2>
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite">
@@ -127,5 +127,5 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 </p>
 
 <p align="center">
-Always learn & building. 🚀
+learn, building & Growing 🚀
 </p>
