@@ -126,5 +126,9 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSadewale&theme=radical&area=true&cache=0" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
 Always learn & building. 🚀
 </p>
