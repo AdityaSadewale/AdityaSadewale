@@ -61,8 +61,9 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aditya_Sadewale_?theme=radical&font=Recursive" alt="LeetCode Activity" />
+  <img src="https://leetcard.jacoblin.cool/Aditya_Sadewale_?theme=radical&font=Recursive&cache=0" alt="LeetCode Activity" />
 </p>
+
 
 <!-- Real-time Profile Analytics Grid -->
 <p align="center">
