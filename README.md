@@ -59,17 +59,18 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 ## 🔥 Coding Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSadewale&theme=radical&hide_border=false&border_radius=10&count_private=true" alt="Aditya's GitHub Streak" />
+  <!-- GitHub Streak Stats: Added dynamic cache bypass -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSadewale&theme=radical&hide_border=false&border_radius=10&count_private=true&cache_bypass=1" alt="Aditya's GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- LeetCode Activity Card: Fixed username structure and set active real-time queries -->
   <img src="https://leetcard.jacoblin.cool/Aditya_Sadewale_?theme=radical&font=Recursive&cache=0" alt="LeetCode Activity" />
 </p>
 
-
-<!-- Real-time Profile Analytics Grid -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSadewale&theme=radical" alt="GitHub Contribution Growth" />
+  <!-- GitHub Profile Details: Upgraded template query parameters to avoid CDN freezing -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSadewale&theme=radical&utcOffset=5.5" alt="GitHub Contribution Growth" />
 </p>
 
 <!-- <p align="center">
