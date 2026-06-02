@@ -59,8 +59,7 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 ## 🔥 Coding Stats & Streaks
 
 <p align="center">
-  <!-- GitHub Streak Stats: Added dynamic cache bypass -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSadewale&theme=radical&hide_border=false&border_radius=10&count_private=true&cache_bypass=1" alt="Aditya's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSadewale&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
