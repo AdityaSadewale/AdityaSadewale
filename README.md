@@ -59,7 +59,7 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 ## 🔥 Coding Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSadewale&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaSadewale&theme=radical" />
 </p>
 
 <p align="center">
