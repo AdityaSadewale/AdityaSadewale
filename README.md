@@ -2,6 +2,7 @@
 
 <h2>Hi ! I'm Aditya Sadewale, a Full-Stack & AI Developer passionate about building AI-powered apps and automation tools.<i>🏆 Hackathon Winner</i>. I work with Python, MERN Stack, React, Node.js, and Ai technologies. Always learning, always building, and sharing projects on GitHub. 🚀</h2>
 
+
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite">
     <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,postgres,tailwind,tensorflow,opencv,git,vercel" height="50" />
