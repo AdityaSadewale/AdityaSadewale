@@ -9,7 +9,6 @@
 </p>
 
 
-
  <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Aditya+Sadewale;Full+Stack+%26+AI+Developer;Building+AI+%26+Automation+Projects;Always+Learning+🚀" />
