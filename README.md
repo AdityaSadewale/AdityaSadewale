@@ -67,7 +67,7 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaSadewale&theme=radical" alt="AdityaSadewale's GitHub Streak" />
   </a>
-</p> 
+</p> -->
 <p align="center">
   <!-- LeetCode Activity Card: Fixed username structure and set active real-time queries -->
   <img src="https://leetcard.jacoblin.cool/Aditya_Sadewale_?theme=radical&font=Recursive&cache=0" alt="LeetCode Activity" />
