@@ -34,13 +34,13 @@
 </div>
      
 
- <p align="center">
+   <!--<p align="center">
   <img 
 src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113ce2b580e95b9ff10c4f66af8/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" 
     width="40%" 
     style="max-width:400px; height:auto; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" 
   />
-</p> 
+</p> -->
 
 
 
