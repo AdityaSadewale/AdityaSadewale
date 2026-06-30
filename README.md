@@ -57,6 +57,7 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="200" />
   <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="200" />
   <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="200" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="200" />
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="200" />
   <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="200" />
 </p>
