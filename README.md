@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Aditya+Sadewale;Full+Stack+%26+AI+Developer;Building+AI+%26+Automation+Projects;Always+Learning+🚀" />
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-sadewale-760359318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
