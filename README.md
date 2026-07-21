@@ -77,9 +77,8 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 
 <p align="center">
   <!-- GitHub Profile Details: Upgraded template query parameters to avoid CDN freezing -->
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSadewale&theme=radical&utcOffset=5.5" alt="GitHub Contribution Growth" />
-</p> 
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSadewale&theme=radical&utcOffset=5.5" alt="GitHub Contribution Growth" />
+</p>
 
 <!-- <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Aditya_Sadewale_&theme=tokyonight" alt="LeetCode Badges" />
