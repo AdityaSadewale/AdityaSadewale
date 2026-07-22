@@ -27,7 +27,6 @@
   </a>
 </p>
 
-
 <div align="center">
   <h3>🌐 Live Portfolio: <a href="https://my-portfolio-ten-vert-77.vercel.app/">my-portfolio-ten-vert-77.vercel.app</a></h3>
 </div>
