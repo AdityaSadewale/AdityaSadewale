@@ -101,6 +101,7 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,nodejs,express,django,fastapi,flask,bootstrap,tailwind,mongodb,mysql,figma,git,github,vercel,netlify,vscode,powershell,opencv,anaconda&perline=50" height="150" />
 
   </marquee>
+  
 </p> -->
 
 # 💻 Tech Stack:
