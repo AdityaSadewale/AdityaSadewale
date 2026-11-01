@@ -49,17 +49,17 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" width="105" alt="JS Badge" />
   <img src="https://camo.githubusercontent.com/151afd26e8bf71c047b979a82bbd91a97745897bc1ed4c07f25810ce020f80a9/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f546f705f53514c5f35302e676966" width="105" alt="SQL Badge" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="105" alt="Badge 3" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="105" alt="Badge 4" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="105" alt="Badge 5" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="105" alt="Badge 6" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/7.gif" width="105" alt="Badge 7" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/8.gif" width="105" alt="Badge 8" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/9.gif" width="105" alt="Badge 9" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/10.gif" width="105" alt="Badge 10" />
-  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="105" alt="50 Solved" />
-  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="105" alt="100 Solved" />
-  <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="105" alt="200 Solved" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="115" alt="Badge 3" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="115" alt="Badge 4" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="115" alt="Badge 5" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="115" alt="Badge 6" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/7.gif" width="115" alt="Badge 7" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/8.gif" width="115" alt="Badge 8" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/9.gif" width="115" alt="Badge 9" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/10.gif" width="115" alt="Badge 10" />
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="115" alt="50 Solved" />
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="115" alt="100 Solved" />
+  <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="115" alt="200 Solved" />
 </p>
 
 ---
