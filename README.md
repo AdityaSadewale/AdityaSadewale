@@ -54,9 +54,9 @@ src="https://camo.githubusercontent.com/323f4b284ba27e1d704bc9f1fe9e4c68ca34f113
   <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="105" alt="Badge 5" />
   <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="105" alt="Badge 6" />
   <img src="https://assets.leetcode.com/static_assets/marketing/7.gif" width="105" alt="Badge 7" />
-  <br>
   <img src="https://assets.leetcode.com/static_assets/marketing/8.gif" width="105" alt="Badge 8" />
   <img src="https://assets.leetcode.com/static_assets/marketing/9.gif" width="105" alt="Badge 9" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/10.gif" width=105" alt="Badge 10" />
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="105" alt="50 Solved" />
   <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="105" alt="100 Solved" />
   <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="105" alt="200 Solved" />
